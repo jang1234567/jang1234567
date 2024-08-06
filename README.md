@@ -23,6 +23,10 @@
 <span><img src="https://img.shields.io/badge/Java-5382A1?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/MyBatis-B20000?style=flat&logo=mybatis&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JPA-6D6E6E?style=flat&logo=jpa&logoColor=white"/></span>
+
 
 
 ### 🗄 Database
