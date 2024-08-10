@@ -4,6 +4,7 @@
 ### 😃 JANG YUN GEUN 😃
 
 - 📧 Email: ygjang9120@gmail.com
+- 🌐 [Notion](https://road-particle-453.notion.site/dc7ad3aca22f48cabfaa0ac927c8f580?pvs=4)- 📧 Email: ygjang9120@gmail.com
 - 🌐 [Notion](https://road-particle-453.notion.site/dc7ad3aca22f48cabfaa0ac927c8f580?pvs=4)
 
 ## 📁 Projects
