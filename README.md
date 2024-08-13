@@ -5,6 +5,7 @@
 
 - 📧 Email: ygjang9120@gmail.com
 - 🌐 [Notion](https://road-particle-453.notion.site/dc7ad3aca22f48cabfaa0ac927c8f580?pvs=4)
+ ---
 
 ## 📁 Projects
 ### 👶 [우리아이](https://github.com/jang1234567/ChildPrj)
@@ -24,8 +25,8 @@
 
     
 
-------
 ---
+
 
 ##  📚 Skills and Experience
 
@@ -60,6 +61,8 @@
   <span><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/></span>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </div>
+
+---
 
 
 
