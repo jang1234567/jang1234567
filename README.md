@@ -2,7 +2,7 @@
 
 ## 📄 Personal Info
 ### 😃 JANG YUN GEUN 😃
-
+- 📧 Email: ygjang9120@gmail.com
 
 
 - <p>
