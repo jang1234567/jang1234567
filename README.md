@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=JANG%20YUNGEUN&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&color=98FF98&fontColor=333333" />z
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&text=JANG%20YUNGEUN&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&color=98FF98&fontColor=333333" />
 
 ## 📄 Personal Info
 ### 😃 JANG YUN GEUN 😃
