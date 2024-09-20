@@ -3,12 +3,7 @@
 ## 📄 Personal Info
 ### 😃 JANG YUN GEUN 😃
 - 📧 Email: ygjang9120@gmail.com
-- <p>
-   <a href="https://road-particle-453.notion.site/dc7ad3aca22f48cabfaa0ac927c8f580?pvs=4">
-  <img src="https://github.com/user-attachments/assets/fdd78583-efce-4a7e-8c6a-1d7590f71892" width="100px" height="30px"/>
-  <strong>Notion 페이지를 확인하려면 여기를 클릭하세요!</strong>
-    </a> 
-</p>
+- 🌐 [Notion](https://road-particle-453.notion.site/dc7ad3aca22f48cabfaa0ac927c8f580?pvs=4)
 
 
 
